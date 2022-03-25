@@ -1,0 +1,1 @@
+﻿Select mbr.TimeStamp,mbr.Value from MBR where TAG='test' AND TimeStamp='14/03/2022'
